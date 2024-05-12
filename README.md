@@ -10,13 +10,12 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently a student **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, tensorflow**
 
-💬 Ask me about **python, machine learning, deap learning... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **python, machine learning, deap learning... or anything [here]([https://github.com/salesp07/salesp07/issues](https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -46,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/moamen1358/moamen1358/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
