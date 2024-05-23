@@ -44,9 +44,9 @@
   <img alt="snake eating my contributions" src="https://github.com/moamen1358/moamen1358/blob/main/github-contribution-grid-snake.svg"/>
   
   <br/><br/><br/>
-</div>-->
+</div>
 
-<hr/>
+<hr/>-->
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
