@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a **Freelance Machine Learning Engineer**
+ 🔭 I’m currently working as an **AI Engineer at White Guard Company**
  
  🌱 I’m passionate about **Computer Vision, NLP, and MLOps**
 
@@ -29,10 +29,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🛠️ Languages, Frameworks & Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cs,java,html,css,flutter,tensorflow,sklearn,pandas,numpy,matplotlib,mysql,sqlite,firebase,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=python,cs,java,html,css,flutter,tensorflow,sklearn,pandas,numpy,matplotlib,mysql,sqlite,firebase,git,docker,linux&perline=9" />
 </div>
 
 <br/>
