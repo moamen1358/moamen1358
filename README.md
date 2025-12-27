@@ -20,7 +20,7 @@
  </div>
  
 <div align="center"> 
-  <a href="moamen.ghareeb.11@gmail.com">
+  <a href="mailto:moamen.ghareeb.11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -38,7 +38,7 @@
 <br/>
 <hr/>
 
-<!--<div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/moamen1358/moamen1358/blob/main/github-contribution-grid-snake.svg"/>
@@ -46,7 +46,7 @@
   <br/><br/><br/>
 </div>
 
-<hr/>-->
+<hr/>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
