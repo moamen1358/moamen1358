@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Moamen+Ghareeb!;" />
 </h1>
 
-<h3 align="center">I'm a Machine Learning Engineer from egypt </h3>
+<h3 align="center">I'm an AI Engineer from Cairo, Egypt </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently applying for **ITI**
+ 🔭 I’m currently working as a **Freelance Machine Learning Engineer**
  
- 🌱 I’m currently learning **Docker, tensorflow**
+ 🌱 I’m passionate about **Computer Vision, NLP, and MLOps**
 
-💬 Ask me about **python, machine learning, deap learning... or anything [here]([https://github.com/salesp07/salesp07/issues](https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))**
+💬 Ask me about **Python, Machine Learning, Deep Learning... or anything [here](https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9)**
 
 
  </div>
@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,python" />
+    <img src="https://skillicons.dev/icons?i=python,cs,java,html,css,flutter,tensorflow,sklearn,pandas,numpy,matplotlib,mysql,sqlite,firebase,git,docker,linux" />
 </div>
 
 <br/>
@@ -67,3 +67,4 @@
 
 
 <br/>
+
