@@ -1,15 +1,41 @@
 # Moamen Ghareeb
 
-AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production agentic systems on the Anthropic stack — multi-agent runtimes, MCP servers, intelligence pipelines. By night I publish small open-source tools that grew out of problems I had at work — currently focused on [**voci**](https://github.com/moamen1358/voci) (real-time speech-to-text overlay) and [**f9-talk**](https://github.com/moamen1358/f9-talk) (hold-to-talk dictation). Cairo, Egypt.
+AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production agentic systems on the Anthropic stack — multi-agent runtimes, MCP servers, intelligence pipelines. By night I publish small open-source tools that grew out of problems I had at work. Cairo, Egypt.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moamen.ghareeb.11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9)
 
-<table>
-<tr>
-<td valign="top" width="34%">
+---
 
-<img src="https://img.shields.io/badge/%20-Recent%20activity-059669?style=for-the-badge&logo=git&logoColor=white" alt="Recent activity" />
+## Featured
+
+### [voci](https://github.com/moamen1358/voci) &nbsp;·&nbsp; real-time speech-to-text + translation overlay
+
+A transparent always-on-top window that captions any audio source on your screen, then translates the transcript into a second language on the line below. Runs **fully local** on the GPU with NVIDIA Parakeet — first token in roughly **50 ms**, no cloud round-trip. Cloud STT and LLM backends are opt-in.
+
+`Python` `PyTorch` `NVIDIA NeMo` `CTranslate2` `PySide6` `CUDA`
+
+---
+
+### [f9-talk](https://github.com/moamen1358/f9-talk) &nbsp;·&nbsp; hold-to-talk dictation for Linux
+
+Press F9, speak, release — the transcript types itself into whatever app you're focused on. System-wide, any text field. Single statically-linked Rust binary, distributed as a `.deb`. Default backend is Deepgram Nova-3 streaming; an offline whisper.cpp backend is also available.
+
+`Rust` `tokio` `Deepgram` `whisper.cpp` `evdev` `xdotool`
+
+---
+
+## Also shipping
+
+- **[WannaScrape](https://github.com/moamen1358/WannaScrape)** — production web scraper with Playwright, fingerprint rotation, bot-detection plugins, CAPTCHA solving. CLI + FastAPI.
+- **[WannaSearch](https://github.com/moamen1358/WannaSearch)** — Google News search CLI and HTTP API. Company-focused queries, time-range filtering, per-company log archives.
+- **[WannaClick](https://github.com/moamen1358/WannaClick)** — Chromium extension that auto-clicks any text-matched element on any website.
+- **[attendance-cv](https://github.com/moamen1358/attendance-cv)** — face-recognition attendance system. InsightFace + YOLO + ChromaDB on a Streamlit dashboard.
+- **[LUMINAFLOW](https://github.com/moamen1358/LUMINAFLOW)** — desktop automation for Linux. Record and replay mouse, keyboard, and gestures.
+
+---
+
+## Recent activity
 
 <!-- recent_commits starts -->
 [dashboard: drop descripti...](https://github.com/moamen1358/moamen1358/commit/3ebd73917e37d05fb519b47d45df0251fcff8f71) · **moamen1358** · _just now_
@@ -24,39 +50,5 @@ AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production a
 
 [wrap Currently and Contac...](https://github.com/moamen1358/moamen1358/commit/2406e0ba75a9f1a76d7aa50e72ccd0dc4347a8ee) · **moamen1358** · _just now_
 <!-- recent_commits ends -->
-
-</td>
-<td valign="top" width="33%">
-
-<img src="https://img.shields.io/badge/%20-Now%20building-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Now building" />
-
-<!-- active_projects starts -->
-[**WannaScrape**](https://github.com/moamen1358/WannaScrape) · _3h ago_
-
-[**WannaSearch**](https://github.com/moamen1358/WannaSearch) · _3h ago_
-
-[**WannaClick**](https://github.com/moamen1358/WannaClick) · _3h ago_
-
-[**LUMINAFLOW**](https://github.com/moamen1358/LUMINAFLOW) · _3h ago_
-<!-- active_projects ends -->
-
-</td>
-<td valign="top" width="33%">
-
-<img src="https://img.shields.io/badge/%20-Recently%20launched-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Recently launched" />
-
-<!-- recent_projects starts -->
-[**voci**](https://github.com/moamen1358/voci) · _19h ago_
-
-[**f9-talk**](https://github.com/moamen1358/f9-talk) · _2d ago_
-
-[**WannaClick**](https://github.com/moamen1358/WannaClick) · _3mo ago_
-
-[**WannaSearch**](https://github.com/moamen1358/WannaSearch) · _3mo ago_
-<!-- recent_projects ends -->
-
-</td>
-</tr>
-</table>
 
 <sub>↻ Auto-refreshed daily by <a href="./.github/workflows/update_readme.yml">a small GitHub Action</a></sub>
