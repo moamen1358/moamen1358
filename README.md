@@ -50,9 +50,11 @@ I'm an AI Engineer at **White Guard**. By day I build production agentic systems
 
 <div align="center">
 
-| |
-|:---:|
-| Python · TypeScript · JavaScript · Rust · Bash · SQL · HTML · CSS · Claude Code · Claude.ai · Anthropic Python SDK · Claude Agent SDK · Opus 4.6 · Sonnet 4 · Model Context Protocol (MCP) · PyTorch · TensorFlow · Keras · Scikit-learn · CNN · ANN · Vision Transformers · Transfer Learning · NLP · LLMs · RAG · Multi-Agent Systems · Prompt Engineering · n8n · LangChain · OpenAI SDK · Ollama · OpenRouter · Groq · Playwright · Chrome DevTools · agent-browser · Apify · BeautifulSoup · aiohttp · FastAPI · cron · Tavily · Perplexity · Apollo.io · Serper · Google Trends · Google Sheets · Google Drive · HubSpot · Telegram · WhatsApp · Unipile · HeyGen · Groq TTS · Pandas · NumPy · Matplotlib · Seaborn · Excel · PostgreSQL · MySQL · SQLite · Pinecone · Qdrant · ChromaDB · Firebase · Airtable · Git · GitHub · Docker · docker compose · Linux · Pop!_OS · Ubuntu · SSH · Cloudflare Tunnel · Grafana · CUDA · Obsidian · NotebookLM · Remotion · Hyperframes · Gamma · ffmpeg · Streamlit · Gradio · NVIDIA NeMo · CTranslate2 · ONNX · PySide6 / Qt |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./skills-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./skills-light.svg">
+  <img src="./skills-light.svg" alt="Skills" width="900" />
+</picture>
 
 </div>
 
