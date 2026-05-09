@@ -79,8 +79,13 @@ def build_recent_commits() -> str:
         if author and author != USER:
             continue  # skip merge commits authored by others
         msg = commit["commit"]["message"].split("\n")[0]
-        if len(msg) > 38:
-            msg = msg[:35].rstrip() + "..."
+        # Strip common conventional-commit prefixes for compactness
+        for prefix in ("feat:", "fix:", "chore:", "docs:", "refactor:", "readme:", "profile:", "security:"):
+            if msg.lower().startswith(prefix):
+                msg = msg[len(prefix):].strip()
+                break
+        if len(msg) > 28:
+            msg = msg[:25].rstrip() + "..."
         repo = repo_full.split("/")[-1]
         url = f"https://github.com/{repo_full}/commit/{head_sha}"
         when = relative_time(e["created_at"])
@@ -109,14 +114,11 @@ def build_recent_projects() -> str:
 
 
 def _render_repo(r: dict, key: str, verb: str) -> str:
+    """Repo name + relative time. No description — the name carries the meaning,
+    and short rows fit a 33% column width without wrapping."""
     name = r["name"]
-    desc = (r["description"] or "").strip()
-    if len(desc) > 50:
-        desc = desc[:47].rstrip() + "..."
     url = f"https://github.com/{USER}/{name}"
     when = relative_time(r[key])
-    if desc:
-        return f"[**{name}**]({url}) · {desc} · _{when}_"
     return f"[**{name}**]({url}) · _{when}_"
 
 

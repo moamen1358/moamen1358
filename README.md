@@ -12,17 +12,17 @@ AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production a
 <img src="https://img.shields.io/badge/%20-Recent%20activity-059669?style=for-the-badge&logo=git&logoColor=white" alt="Recent activity" />
 
 <!-- recent_commits starts -->
-[dashboard: tighter one-line format...](https://github.com/moamen1358/moamen1358/commit/78296234a5db78df7b945184782093b527b64815) · **moamen1358** · _just now_
+[dashboard: tighter one-li...](https://github.com/moamen1358/moamen1358/commit/78296234a5db78df7b945184782093b527b64815) · **moamen1358** · _just now_
 
-[profile: richer bio (sdras-style pa...](https://github.com/moamen1358/moamen1358/commit/aeacf466aec55ad18e77dd583a5f505c933f03b5) · **moamen1358** · _just now_
+[richer bio (sdras-style p...](https://github.com/moamen1358/moamen1358/commit/aeacf466aec55ad18e77dd583a5f505c933f03b5) · **moamen1358** · _just now_
 
-[profile: rewrite as data-driven das...](https://github.com/moamen1358/moamen1358/commit/22fd60de259d6e4e31c911a2bb573612e0c588f2) · **moamen1358** · _just now_
+[rewrite as data-driven da...](https://github.com/moamen1358/moamen1358/commit/22fd60de259d6e4e31c911a2bb573612e0c588f2) · **moamen1358** · _just now_
 
-[profile: vary card shapes and color...](https://github.com/moamen1358/moamen1358/commit/bf5fea87e11c37d2e6bc55d31171c34af97d798c) · **moamen1358** · _just now_
+[vary card shapes and colo...](https://github.com/moamen1358/moamen1358/commit/bf5fea87e11c37d2e6bc55d31171c34af97d798c) · **moamen1358** · _just now_
 
-[profile: wrap Currently and Contact...](https://github.com/moamen1358/moamen1358/commit/2406e0ba75a9f1a76d7aa50e72ccd0dc4347a8ee) · **moamen1358** · _just now_
+[wrap Currently and Contac...](https://github.com/moamen1358/moamen1358/commit/2406e0ba75a9f1a76d7aa50e72ccd0dc4347a8ee) · **moamen1358** · _just now_
 
-[profile: add about and now-building...](https://github.com/moamen1358/moamen1358/commit/9f48392b4fa335c1dfcefd32df5569e2f1538bde) · **moamen1358** · _just now_
+[add about and now-buildin...](https://github.com/moamen1358/moamen1358/commit/9f48392b4fa335c1dfcefd32df5569e2f1538bde) · **moamen1358** · _just now_
 <!-- recent_commits ends -->
 
 </td>
@@ -31,13 +31,13 @@ AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production a
 <img src="https://img.shields.io/badge/%20-Now%20building-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Now building" />
 
 <!-- active_projects starts -->
-[**WannaScrape**](https://github.com/moamen1358/WannaScrape) · Production web scraper with Playwright, bot-det... · _3h ago_
+[**WannaScrape**](https://github.com/moamen1358/WannaScrape) · _3h ago_
 
-[**WannaSearch**](https://github.com/moamen1358/WannaSearch) · Google News search CLI and HTTP API. Company-fo... · _3h ago_
+[**WannaSearch**](https://github.com/moamen1358/WannaSearch) · _3h ago_
 
-[**WannaClick**](https://github.com/moamen1358/WannaClick) · Chromium extension that auto-clicks any text-ma... · _3h ago_
+[**WannaClick**](https://github.com/moamen1358/WannaClick) · _3h ago_
 
-[**LUMINAFLOW**](https://github.com/moamen1358/LUMINAFLOW) · Desktop automation for Linux — record and repla... · _3h ago_
+[**LUMINAFLOW**](https://github.com/moamen1358/LUMINAFLOW) · _3h ago_
 <!-- active_projects ends -->
 
 </td>
@@ -46,13 +46,13 @@ AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production a
 <img src="https://img.shields.io/badge/%20-Recently%20launched-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Recently launched" />
 
 <!-- recent_projects starts -->
-[**voci**](https://github.com/moamen1358/voci) · Real-time speech-to-text and translation overla... · _19h ago_
+[**voci**](https://github.com/moamen1358/voci) · _19h ago_
 
-[**f9-talk**](https://github.com/moamen1358/f9-talk) · Hold F9, speak, release — system-wide dictation... · _2d ago_
+[**f9-talk**](https://github.com/moamen1358/f9-talk) · _2d ago_
 
-[**WannaClick**](https://github.com/moamen1358/WannaClick) · Chromium extension that auto-clicks any text-ma... · _3mo ago_
+[**WannaClick**](https://github.com/moamen1358/WannaClick) · _3mo ago_
 
-[**WannaSearch**](https://github.com/moamen1358/WannaSearch) · Google News search CLI and HTTP API. Company-fo... · _3mo ago_
+[**WannaSearch**](https://github.com/moamen1358/WannaSearch) · _3mo ago_
 <!-- recent_projects ends -->
 
 </td>
