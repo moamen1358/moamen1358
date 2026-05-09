@@ -51,23 +51,4 @@ Hold F9, speak, release — system-wide dictation that types into the focused wi
 
 </td>
 </tr>
-<tr>
-<td valign="top" colspan="2">
-
-### ⚡ Recent activity
-
-<!-- recent_commits starts -->
-| When | Commit | Repo |
-|:---|:---|:---|
-| _just now_ | [render recent activity as a markdown table — When / Commi...](https://github.com/moamen1358/moamen1358/commit/bd4ea068bd15d7a93f103652bde743ee3a127e3e) | **moamen1358** |
-| _just now_ | [try bento-grid layout (2x2 + footer) — voci/f9-talk hero...](https://github.com/moamen1358/moamen1358/commit/52467cb13cf309151948c0756f3b3e7909451699) | **moamen1358** |
-| _just now_ | [switch from 3-column dashboard to single-column featured-...](https://github.com/moamen1358/moamen1358/commit/73b7917944be9eddd147d79f3979114f0353c3b6) | **moamen1358** |
-| _just now_ | [drop descriptions and conventional-commit prefixes; one t...](https://github.com/moamen1358/moamen1358/commit/3ebd73917e37d05fb519b47d45df0251fcff8f71) | **moamen1358** |
-| _just now_ | [tighter one-line format per entry — shorter truncation (3...](https://github.com/moamen1358/moamen1358/commit/78296234a5db78df7b945184782093b527b64815) | **moamen1358** |
-<!-- recent_commits ends -->
-
-</td>
-</tr>
 </table>
-
-<sub>↻ Recent activity refreshes daily via <a href="./.github/workflows/update_readme.yml">a small GitHub Action</a></sub>
