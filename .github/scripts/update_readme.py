@@ -79,12 +79,12 @@ def build_recent_commits() -> str:
         if author and author != USER:
             continue  # skip merge commits authored by others
         msg = commit["commit"]["message"].split("\n")[0]
-        if len(msg) > 70:
-            msg = msg[:67].rstrip() + "..."
+        if len(msg) > 38:
+            msg = msg[:35].rstrip() + "..."
         repo = repo_full.split("/")[-1]
         url = f"https://github.com/{repo_full}/commit/{head_sha}"
         when = relative_time(e["created_at"])
-        lines.append(f"[{msg}]({url}) — **{repo}** — {when}")
+        lines.append(f"[{msg}]({url}) · **{repo}** · _{when}_")
         if len(lines) >= 6:
             break
     return "\n\n".join(lines) if lines else "_No recent activity._"
@@ -111,13 +111,13 @@ def build_recent_projects() -> str:
 def _render_repo(r: dict, key: str, verb: str) -> str:
     name = r["name"]
     desc = (r["description"] or "").strip()
-    if len(desc) > 90:
-        desc = desc[:87].rstrip() + "..."
+    if len(desc) > 50:
+        desc = desc[:47].rstrip() + "..."
     url = f"https://github.com/{USER}/{name}"
     when = relative_time(r[key])
     if desc:
-        return f"[**{name}**]({url}) — {desc}\n\n{verb} {when}"
-    return f"[**{name}**]({url})\n\n{verb} {when}"
+        return f"[**{name}**]({url}) · {desc} · _{when}_"
+    return f"[**{name}**]({url}) · _{when}_"
 
 
 def replace_section(content: str, marker: str, payload: str) -> str:
