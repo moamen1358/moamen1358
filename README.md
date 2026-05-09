@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=580&height=40&lines=AI+Engineer+at+White+Guard;Open-source+automation%2C+voice%2C+and+ML+tools;Anthropic+ecosystem+%C2%B7+Claude+Code+%C2%B7+MCP" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=580&height=40&lines=AI+Engineer+at+White+Guard;Open-source+automation%2C+voice%2C+and+ML+tools;Anthropic+ecosystem+%C2%B7+Claude+Code+%C2%B7+MCP" alt="What I do" />
 
 <br/>
 
