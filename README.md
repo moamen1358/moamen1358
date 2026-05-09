@@ -21,67 +21,9 @@ problems I had at work.
 
 &nbsp;
 
-## Projects
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### [voci](https://github.com/moamen1358/voci)
-
-Real-time speech-to-text and translation overlay for Linux. Streaming NVIDIA Parakeet on the local GPU with optional cloud STT and LLM translation backends.
-
-</td>
-<td valign="top" width="50%">
-
-### [f9-talk](https://github.com/moamen1358/f9-talk)
-
-System-wide hold-to-talk dictation for Linux. Single statically-linked Rust binary distributed as a `.deb`.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### [WannaScrape](https://github.com/moamen1358/WannaScrape)
-
-Production-grade web scraper with Playwright fingerprint rotation and plugin-based bot-detection (Cloudflare, Akamai, PerimeterX, DataDome).
-
-</td>
-<td valign="top" width="50%">
-
-### [WannaSearch](https://github.com/moamen1358/WannaSearch)
-
-Google News search CLI and HTTP API with company-focused queries and per-company log archives.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### [WannaClick](https://github.com/moamen1358/WannaClick)
-
-Browser extension that auto-clicks any text-matched element on any page. SPA-aware, configurable delays.
-
-</td>
-<td valign="top" width="50%">
-
-### [LUMINAFLOW](https://github.com/moamen1358/LUMINAFLOW)
-
-Desktop automation tool that records mouse, keyboard, and gesture input on Linux and replays it on demand.
-
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="2" align="center">
-
-### [attendance-cv](https://github.com/moamen1358/attendance-cv)
-
-Face-recognition attendance system. YOLOv11 + ArcFace + ChromaDB on a Streamlit frontend.
-
-</td>
-</tr>
-</table>
+> The pinned repositories below are the work I'm shipping right now —
+> production tools, open-source utilities, and the graduation project
+> that started it all.
 
 &nbsp;
 
