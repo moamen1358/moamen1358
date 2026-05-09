@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Moamen Ghareeb — AI Engineer" width="900" />
+<img src="./banner-c.svg" alt="Moamen Ghareeb — AI Engineer" width="900" />
 
 </div>
 
