@@ -12,6 +12,8 @@ AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production a
 <img src="https://img.shields.io/badge/%20-Recent%20activity-059669?style=for-the-badge&logo=git&logoColor=white" alt="Recent activity" />
 
 <!-- recent_commits starts -->
+[dashboard: drop descripti...](https://github.com/moamen1358/moamen1358/commit/3ebd73917e37d05fb519b47d45df0251fcff8f71) · **moamen1358** · _just now_
+
 [dashboard: tighter one-li...](https://github.com/moamen1358/moamen1358/commit/78296234a5db78df7b945184782093b527b64815) · **moamen1358** · _just now_
 
 [richer bio (sdras-style p...](https://github.com/moamen1358/moamen1358/commit/aeacf466aec55ad18e77dd583a5f505c933f03b5) · **moamen1358** · _just now_
@@ -21,8 +23,6 @@ AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production a
 [vary card shapes and colo...](https://github.com/moamen1358/moamen1358/commit/bf5fea87e11c37d2e6bc55d31171c34af97d798c) · **moamen1358** · _just now_
 
 [wrap Currently and Contac...](https://github.com/moamen1358/moamen1358/commit/2406e0ba75a9f1a76d7aa50e72ccd0dc4347a8ee) · **moamen1358** · _just now_
-
-[add about and now-buildin...](https://github.com/moamen1358/moamen1358/commit/9f48392b4fa335c1dfcefd32df5569e2f1538bde) · **moamen1358** · _just now_
 <!-- recent_commits ends -->
 
 </td>
