@@ -4,9 +4,11 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9"><img src="https://img.shields.io/badge/LinkedIn-Moamen_Ghareeb-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:moamen.ghareeb.11@gmail.com"><img src="https://img.shields.io/badge/Email-moamen.ghareeb.11-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/moamen1358?tab=repositories"><img src="https://img.shields.io/badge/Open_to-collaboration-1F6FEB?style=flat-square" alt="Open to collaboration" /></a>
+<a href="https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9"><img src="https://img.shields.io/badge/LinkedIn-Moamen_Ghareeb-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:moamen.ghareeb.11@gmail.com"><img src="https://img.shields.io/badge/Email-moamen.ghareeb.11-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/moamen1358?tab=repositories"><img src="https://img.shields.io/badge/Open_to-collaboration-1F6FEB?style=flat-square" alt="Open to collaboration" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/moamen1358?tab=followers"><img src="https://img.shields.io/github/followers/moamen1358?style=flat-square&logo=github&label=Followers&color=58A6FF&labelColor=0D1117" alt="Followers" /></a>&nbsp;<img src="https://img.shields.io/github/stars/moamen1358?style=flat-square&affiliations=OWNER&color=F77F00&logo=github&label=Stars&labelColor=0D1117" alt="Stars" />&nbsp;<img src="https://komarev.com/ghpvc/?username=moamen1358&style=flat-square&color=58A6FF&label=Profile+views&labelColor=0D1117" alt="Profile views" />
 
 </div>
 
@@ -25,86 +27,115 @@ defaults, and no surprises.
 
 ## What I'm shipping
 
-<a href="https://github.com/moamen1358/voci">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=moamen1358&repo=voci&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="voci" />
-</a>
-<a href="https://github.com/moamen1358/f9-talk">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=moamen1358&repo=f9-talk&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="f9-talk" />
-</a>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<a href="https://github.com/moamen1358/WannaScrape">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=moamen1358&repo=WannaScrape&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="WannaScrape" />
-</a>
-<a href="https://github.com/moamen1358/WannaSearch">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=moamen1358&repo=WannaSearch&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="WannaSearch" />
-</a>
+### [voci](https://github.com/moamen1358/voci)
 
-<a href="https://github.com/moamen1358/WannaClick">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=moamen1358&repo=WannaClick&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="WannaClick" />
-</a>
-<a href="https://github.com/moamen1358/LUMINAFLOW">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=moamen1358&repo=LUMINAFLOW&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="LUMINAFLOW" />
-</a>
+Real-time speech-to-text and translation overlay for Linux. Streaming
+NVIDIA Parakeet on the local GPU with optional cloud STT (Deepgram,
+AssemblyAI, Soniox) and cloud LLM translation (Cerebras, Google
+Gemini). Hybrid mode keeps live partials on local OPUS-MT.
 
-<a href="https://github.com/moamen1358/attendance-cv">
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=moamen1358&repo=attendance-cv&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="attendance-cv" />
-</a>
+`Python` &nbsp;`PySide6` &nbsp;`CUDA` &nbsp;`NVIDIA NeMo`
+
+</td>
+<td valign="top" width="50%">
+
+### [f9-talk](https://github.com/moamen1358/f9-talk)
+
+System-wide hold-to-talk dictation for Linux. Single
+statically-linked Rust binary distributed as a `.deb`. Cloud or local
+STT, audio-reactive overlay, optional translation.
+
+`Rust` &nbsp;`tokio` &nbsp;`egui` &nbsp;`Linux`
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### [WannaScrape](https://github.com/moamen1358/WannaScrape)
+
+Production-grade Python web scraper with Playwright fingerprint
+rotation, plugin-based bot-detection (Cloudflare, Akamai,
+PerimeterX, DataDome), CAPTCHA solving, and proxy rotation. CLI and
+FastAPI service.
+
+`Python` &nbsp;`Playwright` &nbsp;`FastAPI`
+
+</td>
+<td valign="top" width="50%">
+
+### [WannaSearch](https://github.com/moamen1358/WannaSearch)
+
+Google News search CLI and HTTP API. Company-focused queries,
+time-range filtering, automatic per-company log archives with Cairo
+timezone timestamps.
+
+`Python` &nbsp;`FastAPI` &nbsp;`CLI`
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### [WannaClick](https://github.com/moamen1358/WannaClick)
+
+Browser extension that auto-clicks any text-matched element on any
+page. Configurable random delays, single-page-app navigation
+support, on-page status indicator.
+
+`JavaScript` &nbsp;`Browser Extension`
+
+</td>
+<td valign="top" width="50%">
+
+### [LUMINAFLOW](https://github.com/moamen1358/LUMINAFLOW)
+
+Desktop automation tool that records mouse, keyboard, and gesture
+input on Linux and replays it on demand. tkinter GUI, persistent
+action lists.
+
+`Python` &nbsp;`tkinter` &nbsp;`pynput`
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" colspan="2" align="center">
+
+### [attendance-cv](https://github.com/moamen1358/attendance-cv)
+
+Face-recognition attendance system. InsightFace + YOLO + ChromaDB on a Streamlit frontend, with role-based dashboards for administrators, teachers, and students. Originally my graduation project.
+
+`Python` &nbsp;`InsightFace` &nbsp;`YOLO` &nbsp;`ChromaDB` &nbsp;`Streamlit`
+
+</td>
+</tr>
+</table>
 
 ## How I work
 
-**Languages**
+**Languages** &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+**ML and inference** &nbsp; <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NeMo" /> <img src="https://img.shields.io/badge/CTranslate2-FF6B35?style=flat-square" alt="CTranslate2" /> <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" /> <img src="https://img.shields.io/badge/InsightFace-FF1744?style=flat-square" alt="InsightFace" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
 
-**ML and inference**
+**Cloud APIs** &nbsp; <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black" alt="Deepgram" /> <img src="https://img.shields.io/badge/AssemblyAI-2E76FF?style=flat-square" alt="AssemblyAI" /> <img src="https://img.shields.io/badge/Cerebras-FF4500?style=flat-square" alt="Cerebras" />
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NeMo" />
-<img src="https://img.shields.io/badge/CTranslate2-FF6B35?style=flat-square" alt="CTranslate2" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-<img src="https://img.shields.io/badge/InsightFace-FF1744?style=flat-square" alt="InsightFace" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
+**Web and UI** &nbsp; <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 
-**Cloud APIs**
+**Automation and infra** &nbsp; <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Claude_Code-D4A27F?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/uv-FFD43B?style=flat-square" alt="uv" />
 
-<img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black" alt="Deepgram" />
-<img src="https://img.shields.io/badge/AssemblyAI-2E76FF?style=flat-square" alt="AssemblyAI" />
-<img src="https://img.shields.io/badge/Cerebras-FF4500?style=flat-square" alt="Cerebras" />
-
-**Web and UI**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6 / Qt" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-
-**Automation and infra**
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Claude_Code-D4A27F?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/uv-FFD43B?style=flat-square" alt="uv" />
-
-**Platform**
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
-<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white" alt="Pop!_OS" />
+**Platform** &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" /> <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white" alt="Pop!_OS" />
 
 ## GitHub at a glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moamen1358&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs,prs&card_width=420&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub stats" height="170" />
 <img src="https://github-readme-streak-stats.demolab.com?user=moamen1358&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=F77F00&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="GitHub streak" height="170" />
 
 <br/>
@@ -127,9 +158,3 @@ The fastest way to reach me is through
 [email](mailto:moamen.ghareeb.11@gmail.com). For project-specific
 questions, opening an issue on the relevant repository is the surest
 way to get a fast response.
-
-<div align="center">
-
-<sub><img src="https://komarev.com/ghpvc/?username=moamen1358&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" /></sub>
-
-</div>
