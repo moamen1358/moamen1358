@@ -2,15 +2,15 @@
   <defs>
     <linearGradient id="nameGradDark" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="50%" stop-color="#34D399"/>
-      <stop offset="100%" stop-color="#A7F3D0"/>
+      <stop offset="50%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
     </linearGradient>
   </defs>
 
   <text x="750" y="115"
         font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
         font-size="16" font-weight="600"
-        fill="#34D399" text-anchor="middle"
+        fill="#60A5FA" text-anchor="middle"
         letter-spacing="2">~/profile $ whoami</text>
 
   <text x="750" y="190"
@@ -22,8 +22,8 @@
   <text x="750" y="235"
         font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
         font-size="18" font-weight="600"
-        fill="#A7F3D0" text-anchor="middle"
+        fill="#7DD3FC" text-anchor="middle"
         letter-spacing="3">// AI ENGINEER</text>
 
-  <rect x="980" y="222" width="12" height="20" fill="#A7F3D0"/>
+  <rect x="980" y="222" width="12" height="20" fill="#7DD3FC"/>
 </svg>
