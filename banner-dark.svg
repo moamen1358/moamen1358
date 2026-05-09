@@ -1,21 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 280" role="img" aria-label="Moamen Ghareeb, AI Engineer">
+  <defs>
+    <linearGradient id="nameGradDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+  </defs>
+
   <text x="750" y="115"
         font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
         font-size="16" font-weight="600"
-        fill="#34D399" text-anchor="middle"
+        fill="#A78BFA" text-anchor="middle"
         letter-spacing="2">~/profile $ whoami</text>
 
   <text x="750" y="190"
         font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
         font-size="76" font-weight="700"
-        fill="#FFFFFF" text-anchor="middle"
+        fill="url(#nameGradDark)" text-anchor="middle"
         letter-spacing="-1">moamen ghareeb</text>
 
   <text x="750" y="235"
         font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
         font-size="18" font-weight="600"
-        fill="#34D399" text-anchor="middle"
+        fill="#F472B6" text-anchor="middle"
         letter-spacing="3">// AI ENGINEER</text>
 
-  <rect x="980" y="222" width="12" height="20" fill="#34D399"/>
+  <rect x="980" y="222" width="12" height="20" fill="#F472B6"/>
 </svg>
