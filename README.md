@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,40:6366F1,100:A78BFA&height=220&section=header&text=Moamen%20Ghareeb&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Cairo%2C%20Egypt&descSize=20&descAlignY=62&descAlign=50" alt="Moamen Ghareeb — AI Engineer in Cairo" />
+<img src="./banner.svg" alt="Moamen Ghareeb — AI Engineer in Cairo, Egypt" />
 
 <div align="center">
 
@@ -58,4 +58,4 @@ Improving real-time multilingual subtitle quality in [voci](https://github.com/m
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A78BFA,60:6366F1,100:0F172A&height=120&section=footer" alt="" />
+<img src="./footer.svg" alt="" />
