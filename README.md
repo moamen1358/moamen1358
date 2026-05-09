@@ -38,17 +38,4 @@ Hold F9, speak, release — system-wide dictation that types into the focused wi
 
 </td>
 </tr>
-<tr>
-<td valign="top" colspan="2">
-
-### 📦 Also shipping
-
-- **[WannaScrape](https://github.com/moamen1358/WannaScrape)** — Playwright scraper with bot-detection
-- **[WannaSearch](https://github.com/moamen1358/WannaSearch)** — Google News CLI + API
-- **[WannaClick](https://github.com/moamen1358/WannaClick)** — Chromium auto-click extension
-- **[attendance-cv](https://github.com/moamen1358/attendance-cv)** — InsightFace + YOLO + Streamlit
-- **[LUMINAFLOW](https://github.com/moamen1358/LUMINAFLOW)** — Linux desktop automation
-
-</td>
-</tr>
 </table>
