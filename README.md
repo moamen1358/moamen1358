@@ -53,6 +53,6 @@ Hold F9, speak, release — system-wide dictation that types into the focused wi
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moamen1358&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=059669&fire=10B981&currStreakLabel=059669)](https://git.io/streak-stats)
 
-[![Top Langs](./top-langs.svg)](https://github.com/moamen1358)
+<img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="480" alt="" />
 
 </div>
