@@ -12,6 +12,8 @@ AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production a
 <img src="https://img.shields.io/badge/%20-Recent%20activity-059669?style=for-the-badge&logo=git&logoColor=white" alt="Recent activity" />
 
 <!-- recent_commits starts -->
+[dashboard: tighter one-line format...](https://github.com/moamen1358/moamen1358/commit/78296234a5db78df7b945184782093b527b64815) · **moamen1358** · _just now_
+
 [profile: richer bio (sdras-style pa...](https://github.com/moamen1358/moamen1358/commit/aeacf466aec55ad18e77dd583a5f505c933f03b5) · **moamen1358** · _just now_
 
 [profile: rewrite as data-driven das...](https://github.com/moamen1358/moamen1358/commit/22fd60de259d6e4e31c911a2bb573612e0c588f2) · **moamen1358** · _just now_
@@ -21,8 +23,6 @@ AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production a
 [profile: wrap Currently and Contact...](https://github.com/moamen1358/moamen1358/commit/2406e0ba75a9f1a76d7aa50e72ccd0dc4347a8ee) · **moamen1358** · _just now_
 
 [profile: add about and now-building...](https://github.com/moamen1358/moamen1358/commit/9f48392b4fa335c1dfcefd32df5569e2f1538bde) · **moamen1358** · _just now_
-
-[profile: render skills as theme-awa...](https://github.com/moamen1358/moamen1358/commit/2b37ece8ff47b9c3dce0513fe74387e197eb072e) · **moamen1358** · _just now_
 <!-- recent_commits ends -->
 
 </td>
