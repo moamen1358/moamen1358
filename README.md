@@ -55,17 +55,13 @@ Hold F9, speak, release — system-wide dictation that types into the focused wi
 ### ⚡ Recent activity
 
 <!-- recent_commits starts -->
-[switch from 3-column dash...](https://github.com/moamen1358/moamen1358/commit/73b7917944be9eddd147d79f3979114f0353c3b6) · **moamen1358** · _just now_
-
-[dashboard: drop descripti...](https://github.com/moamen1358/moamen1358/commit/3ebd73917e37d05fb519b47d45df0251fcff8f71) · **moamen1358** · _just now_
-
-[dashboard: tighter one-li...](https://github.com/moamen1358/moamen1358/commit/78296234a5db78df7b945184782093b527b64815) · **moamen1358** · _just now_
-
-[richer bio (sdras-style p...](https://github.com/moamen1358/moamen1358/commit/aeacf466aec55ad18e77dd583a5f505c933f03b5) · **moamen1358** · _just now_
-
-[rewrite as data-driven da...](https://github.com/moamen1358/moamen1358/commit/22fd60de259d6e4e31c911a2bb573612e0c588f2) · **moamen1358** · _just now_
-
-[vary card shapes and colo...](https://github.com/moamen1358/moamen1358/commit/bf5fea87e11c37d2e6bc55d31171c34af97d798c) · **moamen1358** · _1h ago_
+| When | Commit | Repo |
+|:---|:---|:---|
+| _just now_ | [try bento-grid layout (2x2 + footer) — voci/f9-talk hero...](https://github.com/moamen1358/moamen1358/commit/52467cb13cf309151948c0756f3b3e7909451699) | **moamen1358** |
+| _just now_ | [switch from 3-column dashboard to single-column featured-...](https://github.com/moamen1358/moamen1358/commit/73b7917944be9eddd147d79f3979114f0353c3b6) | **moamen1358** |
+| _just now_ | [drop descriptions and conventional-commit prefixes; one t...](https://github.com/moamen1358/moamen1358/commit/3ebd73917e37d05fb519b47d45df0251fcff8f71) | **moamen1358** |
+| _just now_ | [tighter one-line format per entry — shorter truncation (3...](https://github.com/moamen1358/moamen1358/commit/78296234a5db78df7b945184782093b527b64815) | **moamen1358** |
+| _just now_ | [richer bio (sdras-style paragraph) + colored badge header...](https://github.com/moamen1358/moamen1358/commit/aeacf466aec55ad18e77dd583a5f505c933f03b5) | **moamen1358** |
 <!-- recent_commits ends -->
 
 </td>

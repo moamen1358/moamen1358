@@ -54,15 +54,10 @@ def relative_time(iso: str) -> str:
 
 
 def build_recent_commits() -> str:
-    """Last 6 commits from public PushEvents.
-
-    The /events/public endpoint no longer ships the commits[] array,
-    so we read the head SHA from each PushEvent and fetch the commit
-    object separately to get the message.
-    """
+    """Last 5 commits as a clean markdown table — | When | Commit | Repo |."""
     events = gh_api(f"/users/{USER}/events/public?per_page=60")
     seen: set[str] = set()
-    lines: list[str] = []
+    rows: list[tuple[str, str, str, str]] = []
     for e in events:
         if e["type"] != "PushEvent":
             continue
@@ -77,22 +72,29 @@ def build_recent_commits() -> str:
             continue
         author = (commit.get("author") or {}).get("login")
         if author and author != USER:
-            continue  # skip merge commits authored by others
+            continue
         msg = commit["commit"]["message"].split("\n")[0]
-        # Strip common conventional-commit prefixes for compactness
-        for prefix in ("feat:", "fix:", "chore:", "docs:", "refactor:", "readme:", "profile:", "security:"):
+        for prefix in ("feat:", "fix:", "chore:", "docs:", "refactor:", "readme:", "profile:", "security:", "dashboard:"):
             if msg.lower().startswith(prefix):
                 msg = msg[len(prefix):].strip()
                 break
-        if len(msg) > 28:
-            msg = msg[:25].rstrip() + "..."
+        # Markdown-table cells: keep messages short enough to not blow up
+        # column width, but readable.
+        if len(msg) > 60:
+            msg = msg[:57].rstrip() + "..."
         repo = repo_full.split("/")[-1]
         url = f"https://github.com/{repo_full}/commit/{head_sha}"
         when = relative_time(e["created_at"])
-        lines.append(f"[{msg}]({url}) · **{repo}** · _{when}_")
-        if len(lines) >= 6:
+        rows.append((when, msg, repo, url))
+        if len(rows) >= 5:
             break
-    return "\n\n".join(lines) if lines else "_No recent activity._"
+
+    if not rows:
+        return "_No recent activity._"
+    out = ["| When | Commit | Repo |", "|:---|:---|:---|"]
+    for when, msg, repo, url in rows:
+        out.append(f"| _{when}_ | [{msg}]({url}) | **{repo}** |")
+    return "\n".join(out)
 
 
 def list_owned_repos(sort: str) -> list[dict]:
