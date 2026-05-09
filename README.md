@@ -64,7 +64,15 @@
 
 ## Currently
 
-Improving real-time multilingual subtitle quality in [voci](https://github.com/moamen1358/voci), adding presentation-context detection to [f9-talk](https://github.com/moamen1358/f9-talk), and shipping the next iteration of the partner-portal automation suite at White Guard.
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./currently-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./currently-light.svg">
+  <img src="./currently-light.svg" alt="Currently" width="900" />
+</picture>
+
+</div>
 
 &nbsp;
 
@@ -72,7 +80,13 @@ Improving real-time multilingual subtitle quality in [voci](https://github.com/m
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9) &nbsp;·&nbsp; [Email](mailto:moamen.ghareeb.11@gmail.com)
+<a href="https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./contact-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./contact-light.svg">
+  <img src="./contact-light.svg" alt="Contact" width="900" />
+</picture>
+</a>
 
 </div>
 
