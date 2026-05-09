@@ -27,7 +27,7 @@ Hold F9, speak, release — system-wide dictation that types into the focused wi
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" colspan="2">
 
 ### 🛠 What I'm using
 
@@ -37,7 +37,9 @@ Hold F9, speak, release — system-wide dictation that types into the focused wi
 **Infra** on Docker, Postgres, Qdrant, Pinecone, Cloudflare Tunnel, Grafana.
 
 </td>
-<td valign="top" width="50%">
+</tr>
+<tr>
+<td valign="top" colspan="2">
 
 ### 📦 Also shipping
 
