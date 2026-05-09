@@ -1,4 +1,8 @@
-<img src="./banner.svg" alt="Moamen Ghareeb — AI Engineer in Cairo, Egypt" />
+<div align="center">
+
+<img src="./banner.svg" alt="Moamen Ghareeb — AI Engineer" width="900" />
+
+</div>
 
 <div align="center">
 
@@ -16,7 +20,7 @@
 
 <table align="center"><tr><td width="640" align="center">
 
-I'm an AI Engineer at **White Guard** in Cairo. By day I build production agentic systems — multi-agent runtimes, MCP servers, intelligence pipelines. By night I publish small open-source tools that grew out of problems I had at work.
+I'm an AI Engineer at **White Guard**. By day I build production agentic systems — multi-agent runtimes, MCP servers, intelligence pipelines. By night I publish small open-source tools that grew out of problems I had at work.
 
 </td></tr></table>
 
@@ -58,4 +62,3 @@ Improving real-time multilingual subtitle quality in [voci](https://github.com/m
 
 </div>
 
-<img src="./footer.svg" alt="" />
