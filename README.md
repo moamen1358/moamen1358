@@ -132,15 +132,11 @@ Face-recognition attendance system. InsightFace + YOLO + ChromaDB on a Streamlit
 
 **Platform** &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" /> <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white" alt="Pop!_OS" />
 
-## GitHub at a glance
+## Contribution activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com?user=moamen1358&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=F77F00&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="GitHub streak" height="170" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moamen1358&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=F77F00&area=true&area_color=58A6FF&height=240" alt="Contribution activity over time" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moamen1358&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=F77F00&area=true&area_color=58A6FF&height=260" alt="Contribution activity over time" />
 
 </div>
 
