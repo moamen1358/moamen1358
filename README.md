@@ -48,45 +48,11 @@ I'm an AI Engineer at **White Guard**. By day I build production agentic systems
 
 ## Skills
 
-<img src="https://img.shields.io/badge/Languages-059669?style=for-the-badge" alt="Languages" />
+<table align="center"><tr><td width="780" align="center">
 
-Python · TypeScript · JavaScript · Rust · Bash · SQL · HTML · CSS
+Python · TypeScript · JavaScript · Rust · Bash · SQL · HTML · CSS · Claude Code · Claude.ai · Anthropic Python SDK · Claude Agent SDK · Opus 4.6 · Sonnet 4 · Model Context Protocol (MCP) · PyTorch · TensorFlow · Keras · Scikit-learn · CNN · ANN · Vision Transformers · Transfer Learning · NLP · LLMs · RAG · Multi-Agent Systems · Prompt Engineering · n8n · LangChain · OpenAI SDK · Ollama · OpenRouter · Groq · Playwright · Chrome DevTools · agent-browser · Apify · BeautifulSoup · aiohttp · FastAPI · cron · Tavily · Perplexity · Apollo.io · Serper · Google Trends · Google Sheets · Google Drive · HubSpot · Telegram · WhatsApp · Unipile · HeyGen · Groq TTS · Pandas · NumPy · Matplotlib · Seaborn · Excel · PostgreSQL · MySQL · SQLite · Pinecone · Qdrant · ChromaDB · Firebase · Airtable · Git · GitHub · Docker · docker compose · Linux · Pop!_OS · Ubuntu · SSH · Cloudflare Tunnel · Grafana · CUDA · Obsidian · NotebookLM · Remotion · Hyperframes · Gamma · ffmpeg · Streamlit · Gradio · NVIDIA NeMo · CTranslate2 · ONNX · PySide6 / Qt
 
-<img src="https://img.shields.io/badge/Anthropic_%E2%80%A2_Claude-059669?style=for-the-badge" alt="Anthropic / Claude" />
-
-Claude Code · Claude.ai · Anthropic Python SDK · Claude Agent SDK · Opus 4.6 · Sonnet 4 · Model Context Protocol (MCP)
-
-<img src="https://img.shields.io/badge/ML_%26_Deep_Learning-059669?style=for-the-badge" alt="ML & Deep Learning" />
-
-PyTorch · TensorFlow · Keras · Scikit-learn · CNN · ANN · Vision Transformers · Transfer Learning · NLP · LLMs · RAG · Multi-Agent Systems · Prompt Engineering
-
-<img src="https://img.shields.io/badge/Agent_%26_LLM_Tooling-059669?style=for-the-badge" alt="Agent & LLM Tooling" />
-
-n8n · LangChain · OpenAI SDK · Ollama · OpenRouter · Groq
-
-<img src="https://img.shields.io/badge/Automation_%26_Scraping-059669?style=for-the-badge" alt="Automation & Scraping" />
-
-Playwright · Chrome DevTools · agent-browser · Apify · BeautifulSoup · aiohttp · FastAPI · cron
-
-<img src="https://img.shields.io/badge/Research_%26_Data_APIs-059669?style=for-the-badge" alt="Research & Data APIs" />
-
-Tavily · Perplexity · Apollo.io · Serper · Google Trends · Google Sheets · Google Drive · HubSpot · Telegram · WhatsApp · Unipile · HeyGen · Groq TTS
-
-<img src="https://img.shields.io/badge/Data_Handling-059669?style=for-the-badge" alt="Data Handling" />
-
-Pandas · NumPy · Matplotlib · Seaborn · Excel
-
-<img src="https://img.shields.io/badge/Databases_%26_Vector_Stores-059669?style=for-the-badge" alt="Databases & Vector Stores" />
-
-PostgreSQL · MySQL · SQLite · Pinecone · Qdrant · ChromaDB · Firebase · Airtable
-
-<img src="https://img.shields.io/badge/Dev_Tools_%26_Platforms-059669?style=for-the-badge" alt="Dev Tools & Platforms" />
-
-Git · GitHub · Docker · docker compose · Linux (Pop!_OS / Ubuntu) · SSH · Cloudflare Tunnel · Grafana · GPU servers · CUDA
-
-<img src="https://img.shields.io/badge/Content_%26_Knowledge-059669?style=for-the-badge" alt="Content & Knowledge" />
-
-Obsidian · NotebookLM · Remotion · Hyperframes · Gamma · ffmpeg · Streamlit · Gradio · NVIDIA NeMo · CTranslate2 · ONNX · PySide6 / Qt
+</td></tr></table>
 
 &nbsp;
 
