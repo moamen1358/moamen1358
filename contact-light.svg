@@ -1,16 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" role="img" aria-label="Contact">
-  <rect x="40" y="15" width="920" height="80" rx="14" ry="14"
-        fill="#ECFDF5" stroke="#059669" stroke-width="2"/>
+  <!-- pill / stadium shape: very rounded ends -->
+  <rect x="40" y="15" width="920" height="80" rx="40" ry="40"
+        fill="#F1F5F9" stroke="#475569" stroke-width="2"/>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
      font-size="16" fill="#0F172A" text-anchor="middle">
 
-    <text x="500" y="40" font-size="13" font-weight="600" fill="#059669" letter-spacing="3">
+    <text x="500" y="40" font-size="13" font-weight="600" fill="#475569" letter-spacing="3">
       GET IN TOUCH
     </text>
 
     <text x="500" y="72" font-weight="600">
-      <tspan fill="#0A66C2">LinkedIn</tspan>&#160;&#160;<tspan fill="#10B981" font-weight="700">·</tspan>&#160;&#160;<tspan fill="#EA4335">Email</tspan>&#160;&#160;<tspan fill="#10B981" font-weight="700">·</tspan>&#160;&#160;<tspan fill="#0F172A">moamen.ghareeb.11@gmail.com</tspan>
+      <tspan fill="#0A66C2">LinkedIn</tspan>&#160;&#160;<tspan fill="#475569" font-weight="700">·</tspan>&#160;&#160;<tspan fill="#EA4335">Email</tspan>&#160;&#160;<tspan fill="#475569" font-weight="700">·</tspan>&#160;&#160;<tspan fill="#0F172A">moamen.ghareeb.11@gmail.com</tspan>
     </text>
 
   </g>
