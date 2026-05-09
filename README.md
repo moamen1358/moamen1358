@@ -1,6 +1,6 @@
 # Moamen Ghareeb
 
-AI Engineer at [White Guard](https://whiteguard.co.uk). Building agentic systems, MCP servers, and open-source voice tools. Cairo, Egypt.
+AI Engineer at **[White Guard](https://whiteguard.co.uk)**. I build production agentic systems on the Anthropic stack — multi-agent runtimes, MCP servers, intelligence pipelines. By night I publish small open-source tools that grew out of problems I had at work — currently focused on [**voci**](https://github.com/moamen1358/voci) (real-time speech-to-text overlay) and [**f9-talk**](https://github.com/moamen1358/f9-talk) (hold-to-talk dictation). Cairo, Egypt.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moamen.ghareeb.11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9)
@@ -9,7 +9,8 @@ AI Engineer at [White Guard](https://whiteguard.co.uk). Building agentic systems
 <tr>
 <td valign="top" width="34%">
 
-### Recent activity
+<img src="https://img.shields.io/badge/%20-Recent%20activity-059669?style=for-the-badge&logo=git&logoColor=white" alt="Recent activity" />
+
 <!-- recent_commits starts -->
 [profile: rewrite as data-driven dashboard](https://github.com/moamen1358/moamen1358/commit/22fd60de259d6e4e31c911a2bb573612e0c588f2) — **moamen1358** — just now
 
@@ -27,7 +28,8 @@ AI Engineer at [White Guard](https://whiteguard.co.uk). Building agentic systems
 </td>
 <td valign="top" width="33%">
 
-### Now building
+<img src="https://img.shields.io/badge/%20-Now%20building-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Now building" />
+
 <!-- active_projects starts -->
 [**WannaScrape**](https://github.com/moamen1358/WannaScrape) — Production web scraper with Playwright, bot-detection plugins, fingerprint rotation, an...
 
@@ -49,7 +51,8 @@ Pushed 3h ago
 </td>
 <td valign="top" width="33%">
 
-### Recently launched
+<img src="https://img.shields.io/badge/%20-Recently%20launched-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Recently launched" />
+
 <!-- recent_projects starts -->
 [**voci**](https://github.com/moamen1358/voci) — Real-time speech-to-text and translation overlay for Linux. ~50 ms first-token on local...
 
@@ -71,3 +74,5 @@ Created 3mo ago
 </td>
 </tr>
 </table>
+
+<sub>↻ Auto-refreshed daily by <a href="./.github/workflows/update_readme.yml">a small GitHub Action</a></sub>
