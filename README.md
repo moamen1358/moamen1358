@@ -1,92 +1,73 @@
-<div align="center">
+# Moamen Ghareeb
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
-  <img src="./banner-light.svg" alt="Moamen Ghareeb — AI Engineer" width="900" />
-</picture>
+AI Engineer at [White Guard](https://whiteguard.co.uk). Building agentic systems, MCP servers, and open-source voice tools. Cairo, Egypt.
 
-</div>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moamen.ghareeb.11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9)
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="34%">
 
-<br/>
+### Recent activity
+<!-- recent_commits starts -->
+[profile: vary card shapes and colors — about=indigo with shadow, no...](https://github.com/moamen1358/moamen1358/commit/bf5fea87e11c37d2e6bc55d31171c34af97d798c) — **moamen1358** — just now
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=580&height=40&lines=AI+Engineer+at+White+Guard;Open-source+automation%2C+voice%2C+and+ML+tools;Anthropic+ecosystem+%C2%B7+Claude+Code+%C2%B7+MCP" alt="What I do" />
+[profile: wrap Currently and Contact in matching green-card SVGs (th...](https://github.com/moamen1358/moamen1358/commit/2406e0ba75a9f1a76d7aa50e72ccd0dc4347a8ee) — **moamen1358** — just now
 
-<br/>
+[profile: add about and now-building cards (theme-aware SVG, green t...](https://github.com/moamen1358/moamen1358/commit/9f48392b4fa335c1dfcefd32df5569e2f1538bde) — **moamen1358** — just now
 
-<a href="https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:moamen.ghareeb.11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+[profile: render skills as theme-aware SVG with light-green tint bac...](https://github.com/moamen1358/moamen1358/commit/2b37ece8ff47b9c3dce0513fe74387e197eb072e) — **moamen1358** — just now
 
-</div>
+[profile: wrap skills block in a markdown table so GitHub renders a...](https://github.com/moamen1358/moamen1358/commit/f69d9854e4687ee6a92ba9556ce7f5dccbc4b9d8) — **moamen1358** — just now
 
-&nbsp;
+[profile: collapse skills into one centered block — no categories, a...](https://github.com/moamen1358/moamen1358/commit/5c66aca1beb550f729198907d1bc942f24d25cfa) — **moamen1358** — 1h ago
+<!-- recent_commits ends -->
 
-<div align="center">
+</td>
+<td valign="top" width="33%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./about-light.svg">
-  <img src="./about-light.svg" alt="About" width="900" />
-</picture>
+### Now building
+<!-- active_projects starts -->
+[**WannaScrape**](https://github.com/moamen1358/WannaScrape) — Production web scraper with Playwright, bot-detection plugins, fingerprint rotation, an...
 
-</div>
+Pushed 3h ago
 
-&nbsp;
+[**WannaSearch**](https://github.com/moamen1358/WannaSearch) — Google News search CLI and HTTP API. Company-focused queries, time-range filtering, per...
 
-<div align="center">
+Pushed 3h ago
 
-<a href="https://github.com/moamen1358/voci">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./building-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./building-light.svg">
-  <img src="./building-light.svg" alt="Now building voci" width="900" />
-</picture>
-</a>
+[**WannaClick**](https://github.com/moamen1358/WannaClick) — Chromium extension that auto-clicks any text-matched element on any website. Random del...
 
-</div>
+Pushed 3h ago
 
-&nbsp;
+[**LUMINAFLOW**](https://github.com/moamen1358/LUMINAFLOW) — Desktop automation for Linux — record and replay mouse, keyboard, and gestures. tkinter...
 
-## Skills
+Pushed 3h ago
+<!-- active_projects ends -->
 
-<div align="center">
+</td>
+<td valign="top" width="33%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./skills-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./skills-light.svg">
-  <img src="./skills-light.svg" alt="Skills" width="900" />
-</picture>
+### Recently launched
+<!-- recent_projects starts -->
+[**voci**](https://github.com/moamen1358/voci) — Real-time speech-to-text and translation overlay for Linux. ~50 ms first-token on local...
 
-</div>
+Created 19h ago
 
-&nbsp;
+[**f9-talk**](https://github.com/moamen1358/f9-talk) — Hold F9, speak, release — system-wide dictation for Linux. Single Rust binary, Deepgram...
 
-## Currently
+Created 2d ago
 
-<div align="center">
+[**WannaClick**](https://github.com/moamen1358/WannaClick) — Chromium extension that auto-clicks any text-matched element on any website. Random del...
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./currently-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./currently-light.svg">
-  <img src="./currently-light.svg" alt="Currently" width="900" />
-</picture>
+Created 3mo ago
 
-</div>
+[**WannaSearch**](https://github.com/moamen1358/WannaSearch) — Google News search CLI and HTTP API. Company-focused queries, time-range filtering, per...
 
-&nbsp;
+Created 3mo ago
+<!-- recent_projects ends -->
 
-## Contact
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/moamen-ghareeb-b4a1512b9">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./contact-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./contact-light.svg">
-  <img src="./contact-light.svg" alt="Contact" width="900" />
-</picture>
-</a>
-
-</div>
-
+</td>
+</tr>
+</table>
