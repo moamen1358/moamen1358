@@ -22,25 +22,27 @@
 
 &nbsp;
 
-<table align="center"><tr><td width="640" align="center">
+<div align="center">
 
-I'm an AI Engineer at **White Guard**. By day I build production agentic systems — multi-agent runtimes, MCP servers, intelligence pipelines. By night I publish small open-source tools that grew out of problems I had at work.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./about-light.svg">
+  <img src="./about-light.svg" alt="About" width="900" />
+</picture>
 
-</td></tr></table>
+</div>
 
 &nbsp;
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="640">
-
-**Now building →** &nbsp; [**voci**](https://github.com/moamen1358/voci) &nbsp;·&nbsp; real-time speech-to-text and translation overlay for Linux, streaming NVIDIA Parakeet on the local GPU.
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/moamen1358/voci">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./building-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./building-light.svg">
+  <img src="./building-light.svg" alt="Now building voci" width="900" />
+</picture>
+</a>
 
 </div>
 
