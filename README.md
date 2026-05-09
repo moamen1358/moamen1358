@@ -11,6 +11,8 @@ AI Engineer at [White Guard](https://whiteguard.co.uk). Building agentic systems
 
 ### Recent activity
 <!-- recent_commits starts -->
+[profile: rewrite as data-driven dashboard](https://github.com/moamen1358/moamen1358/commit/22fd60de259d6e4e31c911a2bb573612e0c588f2) — **moamen1358** — just now
+
 [profile: vary card shapes and colors — about=indigo with shadow, no...](https://github.com/moamen1358/moamen1358/commit/bf5fea87e11c37d2e6bc55d31171c34af97d798c) — **moamen1358** — just now
 
 [profile: wrap Currently and Contact in matching green-card SVGs (th...](https://github.com/moamen1358/moamen1358/commit/2406e0ba75a9f1a76d7aa50e72ccd0dc4347a8ee) — **moamen1358** — just now
@@ -20,8 +22,6 @@ AI Engineer at [White Guard](https://whiteguard.co.uk). Building agentic systems
 [profile: render skills as theme-aware SVG with light-green tint bac...](https://github.com/moamen1358/moamen1358/commit/2b37ece8ff47b9c3dce0513fe74387e197eb072e) — **moamen1358** — just now
 
 [profile: wrap skills block in a markdown table so GitHub renders a...](https://github.com/moamen1358/moamen1358/commit/f69d9854e4687ee6a92ba9556ce7f5dccbc4b9d8) — **moamen1358** — just now
-
-[profile: collapse skills into one centered block — no categories, a...](https://github.com/moamen1358/moamen1358/commit/5c66aca1beb550f729198907d1bc942f24d25cfa) — **moamen1358** — 1h ago
 <!-- recent_commits ends -->
 
 </td>
